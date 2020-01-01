@@ -1,0 +1,57 @@
+<splits>
+  <work>
+    <name>T0606-ASg-parallel</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>由顯興，   灼灼踰日光</start>
+        <end>因佛之講說，   故造修行經</end>
+      </part>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>其心清淨如流泉，   與比丘俱猶德華</start>
+        <end>總說其義如本教，   故歎詠是致神足</end>
+      </part>
+      <part>
+        <witnesses>大,聖,麗-CB</witnesses>
+        <start>相，   其明踰日光</start>
+        <end>是故分別說，   觀察無常法</end>
+      </part>
+      <part>
+        <witnesses>宋,元,明,宮</witnesses>
+        <start>相，   其明踰月光</start>
+        <end>是故分別說，   觀察無常法</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0606-sanpin</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>巍巍佛德尊，   威神不可量</start>
+        <end>令十方人度三塗，   等心一切雨甘露</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0606-rest</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>賈人行曠野，   飢渴於厄道</start>
+        <end>義深廣演說總哀，   令行者解多講空</end>
+      </part>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>光，   德炎巍巍過天帝</start>
+        <end>是謂身息成其行</end>
+      </part>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>勇猛於善力，   面光如金華</start>
+        <end>終始，永若燈滅</end>
+      </part>
+    </parts>
+  </work>
+</splits>

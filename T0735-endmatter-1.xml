@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<splits>
+  <work>
+    <name>T0735B</name>
+    <parts>
+      <part>
+        <witnesses>宋,元,明</witnesses>
+        <start>佛念天地八方之外</start>
+        <end>得根。弟子聞經歡喜，前受教</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0735C</name>
+    <parts>
+      <part>
+        <witnesses>宋,元,明</witnesses>
+        <start>是為痛痒
+要識如諦知也</start>
+        <end>佛說如是。
+比丘歡欣受行。</end>
+      </part>
+    </parts>
+  </work>
+</splits>

@@ -1,0 +1,28 @@
+<splits>
+  <work>
+    <name>T0222-Ch3-Sasaki</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>佛告舍利弗：「或有菩薩摩訶薩行般若波</start>
+        <end>得佛，號嚴淨如來、至真、等正覺也</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0222-rest</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>聞如是：
+一時佛遊羅閱祇耆闍崛山中，與摩</start>
+        <end>生、淨於佛土，見諸佛世尊、不離道教</end>
+      </part>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>於是賢者舍利弗、摩訶目揵連、大迦</start>
+        <end>菩薩學當作是知，行般若波羅蜜法如是</end>
+      </part>
+    </parts>
+  </work>
+</splits>

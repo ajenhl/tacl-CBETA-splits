@@ -1,0 +1,31 @@
+<splits>
+  <work>
+    <name>T0362-5evils</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>佛告阿逸菩薩等：「諸天、帝王、人民，我皆語汝
+曹，諸欲往生阿彌陀佛國者</start>
+        <end>皆言受佛重教，請展轉相教，不敢
+違犯</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0362-ex5evils</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>佛在羅閱祇耆闍崛山中。時有摩訶比丘</start>
+        <end>求道不休會當得之，不失其所欲
+願也</end>
+      </part>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>佛告阿難：「我哀若曹，令悉見阿彌陀佛，及</start>
+        <end>起為佛作禮遶三匝，前以頭
+面著佛足而去</end>
+      </part>
+    </parts>
+  </work>
+</splits>

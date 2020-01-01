@@ -1,0 +1,23 @@
+<splits>
+  <work>
+    <name>T0225A</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>聞如是：
+一時，佛遊於王舍國其鷄山，與大比</start>
+        <end>行念，吾樂菩薩思惟念此行</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0225B</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>爾時，帝釋與四萬天子，四天王與二萬天子</start>
+        <end>王、人民，皆大歡喜，前為佛作禮而去</end>
+      </part>
+    </parts>
+  </work>
+</splits>

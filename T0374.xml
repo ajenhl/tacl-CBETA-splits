@@ -1,0 +1,25 @@
+<splits>
+  <work>
+    <name>T0374-CommonQuarter</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>如是我聞：
+一時佛在拘尸那</start>
+        <end>右脇而臥，如
+彼病人</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0374-DhKsUnique</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>爾時迦葉菩薩白佛言：「世尊！如來已免一切
+疾病，患苦</start>
+        <end>陀羅得阿羅漢果</end>
+      </part>
+    </parts>
+  </work>
+</splits>

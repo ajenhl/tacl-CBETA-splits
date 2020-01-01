@@ -1,0 +1,30 @@
+<splits>
+  <work>
+    <name>T0262-Devadatta</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>爾時佛告諸菩薩及天人四眾：「吾於過去</start>
+        <end>智積菩薩及舍利弗，
+一切眾會，默然信受</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0262-exDevadatta</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>如是我聞：
+一時，佛住王舍城耆闍崛山中，
+與大比丘眾萬二千人俱，皆是阿羅漢</start>
+        <end>能須臾說，   一切天人，   皆應供養</end>
+      </part>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>爾時藥王菩薩摩訶薩及大樂說菩薩摩訶</start>
+        <end>切大會，皆大歡喜，受持佛語，作禮而去</end>
+      </part>
+    </parts>
+  </work>
+</splits>

@@ -1,0 +1,44 @@
+<splits>
+  <work>
+    <name>T0263-Ch8interp</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>於是賢者邠耨文陀尼子，聞佛世尊敷闡善</start>
+        <end>當至大道，   國土處所，   各有名號</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0263-Ch10interp</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>佛告諸比丘：「道法一等，無有二乘，謂無上正</start>
+        <end>善權方便，   無有二乘，   皆歸一道</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0263-rest</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>聞如是：
+一時佛</start>
+        <end>緣是之故，   暢諸通慧</end>
+      </part>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>佛告諸比丘：「寧見聲聞滿願子乎！於比丘眾</start>
+        <end>如甘露見灌，   已獲無極安</end>
+      </part>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>爾時世尊告八萬菩薩：「因藥王開士緣諸菩</start>
+        <end>世間人民，聞
+佛所說，莫不歡喜</end>
+      </part>
+    </parts>
+  </work>
+</splits>

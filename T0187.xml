@@ -1,0 +1,29 @@
+<splits>
+  <work>
+    <name>T0187-possInterp</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>爾時佛告諸比丘：「如來化五人竟，作是念</start>
+        <end>戒法淨修梵行，是時國內安靜，萬邦來賀</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0187-rest</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>如是我聞：
+一時佛在</start>
+        <end>佛智無有邊，   廣大如虛空</end>
+      </part>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>爾時世尊告淨居天難陀、蘇難陀等言：「菩薩</start>
+        <end>緊那羅、摩睺羅伽、人非
+人等，皆大歡喜，信受奉行</end>
+      </part>
+    </parts>
+  </work>
+</splits>

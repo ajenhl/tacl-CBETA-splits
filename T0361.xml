@@ -1,0 +1,30 @@
+<splits>
+  <work>
+    <name>T0361-5evils</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>佛告阿逸菩薩等諸天、
+帝王、人民：「我皆語若曹，諸欲生無量清淨佛</start>
+        <end>不敢犯也</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0361-ex5evils</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>佛在王舍國靈</start>
+        <end>求道不休會當得
+之，不失其所欲願也</end>
+      </part>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>佛告阿難：「我哀若曹</start>
+        <end>遶佛三匝，以頭面
+著佛足而去</end>
+      </part>
+    </parts>
+  </work>
+</splits>
