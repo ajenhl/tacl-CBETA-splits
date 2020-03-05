@@ -1,0 +1,28 @@
+<splits delete="true">
+  <work>
+    <name>T0006-fascicle-1</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>聞如是：
+一時，佛遊於王舍鷂山</start>
+        <end>故得道疾。」佛說已，淳歡喜。</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0006-fascicle-2</name>
+    <parts>
+      <part>
+        <witnesses>大,CB,？,磧-CB,麗-CB</witnesses>
+        <start>彼時，佛請賢者阿難，俱之拘夷邑</start>
+        <end>當從彼解度生死履</end>
+      </part>
+      <part>
+        <witnesses>宋,元,明</witnesses>
+        <start>彼時，佛語賢者阿難，俱之拘夷邑</start>
+        <end>當從彼解度生死漏</end>
+      </part>
+    </parts>
+  </work>
+</splits>
