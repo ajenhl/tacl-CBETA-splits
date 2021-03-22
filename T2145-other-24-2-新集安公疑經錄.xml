@@ -1,0 +1,19 @@
+<splits>
+  <work>
+    <name>T2145-新集安公疑經錄-preface</name>
+    <parts>
+      <part>
+        <witnesses>大,CB,麗-CB,磧-CB</witnesses>
+        <start>外國僧法學。皆跪而口受</start>
+        <end>共知鄙信
+焉</end>
+      </part>
+      <part>
+        <witnesses>宋,元,明</witnesses>
+        <start>外國僧法學。皆跪而口受</start>
+        <end>共知鄙倍
+焉</end>
+      </part>
+    </parts>
+  </work>
+</splits>

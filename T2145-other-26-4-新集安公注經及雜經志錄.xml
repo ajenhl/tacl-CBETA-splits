@@ -1,0 +1,47 @@
+<splits>
+  <work>
+    <name>T2145-新集安公注經及雜經志錄-preface</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>夫日月麗天眾星助</start>
+        <end>冀抱瓫燋火讜
+有微益</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T2145-僧法尼所誦出經入疑錄</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>僧法尼所誦出經入疑錄
+   寶頂經一卷　永元元年出時年九歲</start>
+        <end>取捨兼懷。故附之疑例</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T2145-薩婆若陀眷屬莊嚴經-entry</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>薩婆若陀眷屬莊嚴經一卷二十餘紙
+
+右一部。梁天監九年</start>
+<end>然猶有零散。恐亂後生。故復
+略記薩婆若陀長者。是妙光父名。妙光弟名金剛德體。弟子名師子</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T2145-two-sutras</name>
+    <parts>
+      <part>
+        <witnesses>ALL</witnesses>
+        <start>法苑經一百八十九卷</start>
+        <end>故不入部最之限</end>
+      </part>
+    </parts>
+  </work>
+</splits>
