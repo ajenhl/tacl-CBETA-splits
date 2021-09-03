@@ -1,0 +1,27 @@
+<splits delete="true">
+  <work>
+    <name>T0418-revised-ex-verses</name>
+    <parts>
+      <part>
+        <witnesses>元,宋,明,知</witnesses>
+        <start>問事品第一</start>
+        <end>為佛作禮而去。</end>
+      </part>
+      <part>
+        <witnesses>CB,大,宮,麗-CB</witnesses>
+        <start>佛告跋陀和：「我所說無有異爾，故說是語</start>
+        <end>為佛作禮而去。</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0418-unrevised-ex-verses</name>
+    <parts>
+      <part>
+        <witnesses>CB,大,宮,麗-CB</witnesses>
+        <start>問事品第一</start>
+        <end>為是人說耳。」</end>
+      </part>
+    </parts>
+  </work>
+</splits>
