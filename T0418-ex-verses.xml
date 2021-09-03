@@ -1,4 +1,23 @@
 <splits delete="true">
+  <!-- This file splits T0418-ex verses into "revised" and
+       "unrevised".  It accounts for the fact that on Harrison's
+       analysis, the base text of T (K), and witnesses aligned with
+       it, preserve the unrevised text only in part, to line 907c7;
+       from 907c8 onwards, someone later in the tradition spliced it
+       with the revised version, which in all essential respects is
+       identical with SYMP.
+
+       The overall process results in four different types of material
+       for T0418:
+
+       1. unrevised: CB大宮麗-CB only, to T907c7
+       2. revised ex-verse, which is in turn subdivided into:
+         2a. revised ex-verse for CB大宮麗-CB, after 907c8 only
+         2b. revised ex-verse for SYMP, covering the span of the whole text
+       3. revised verse, which (at least in principle) exists for all witnesses
+
+       (it remains to be seen whether in practice, CB大宮麗-CB contain
+       any verses that this the process extracts.  -->
   <work>
     <name>T0418-revised-ex-verses</name>
     <parts>
