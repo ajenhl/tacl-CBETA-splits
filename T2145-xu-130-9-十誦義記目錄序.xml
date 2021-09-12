@@ -1,0 +1,25 @@
+<splits>
+  <work>
+    <name>T2145-preface-十誦義記目錄序</name>
+    <parts>
+      <part>
+        <witnesses>大,CB,麗-CB,磧-CB,宋</witnesses>
+        <start>夫戒律者。蓋四雙之雲挮</start>
+        <end>明哲儻覽。
+採其正意焉</end>
+      </part>
+      <part>
+        <witnesses>元</witnesses>
+        <start>夫戒律者。蓋四雙之雲梯</start>
+        <end>明哲儻覽。
+採其正意焉</end>
+      </part>
+      <part>
+        <witnesses>明</witnesses>
+        <start>夫戒律者。蓋四雙之雲梯</start>
+        <end>明哲倘覽。
+採其正意焉</end>
+      </part>
+    </parts>
+  </work>
+</splits>

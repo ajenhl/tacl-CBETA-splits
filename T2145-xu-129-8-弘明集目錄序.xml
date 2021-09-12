@@ -1,0 +1,22 @@
+<splits>
+  <work>
+    <name>T2145-preface-弘明集目錄序</name>
+    <parts>
+      <part>
+        <witnesses>大,CB,麗-CB,磧-CB</witnesses>
+        <start>夫覺海無涯慧境圓照</start>
+        <end>在褊局。博練君子惠增廣焉</end>
+      </part>
+      <part>
+        <witnesses>宋,元</witnesses>
+        <start>夫覺海無涯慧鏡圓照</start>
+        <end>在褊𢩁。博練君子惠增廣焉</end>
+      </part>
+      <part>
+        <witnesses>明</witnesses>
+        <start>夫覺海無涯慧鏡圓照</start>
+        <end>在褊局。博練君子惠增廣焉</end>
+      </part>
+    </parts>
+  </work>
+</splits>
