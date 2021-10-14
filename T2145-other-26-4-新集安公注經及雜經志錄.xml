@@ -1,6 +1,6 @@
 <splits>
   <work>
-    <name>T2145-新集安公注經及雜經志錄-preface</name>
+    <name>T2145-preface-新集安公注經及雜經志錄</name>
     <parts>
       <part>
         <witnesses>ALL</witnesses>
@@ -11,7 +11,7 @@
     </parts>
   </work>
   <work>
-    <name>T2145-新集安公注經及雜經志錄</name>
+    <name>T2145-cat-新集安公注經及雜經志錄-1</name>
     <parts>
       <part>
         <witnesses>ALL</witnesses>
@@ -21,7 +21,7 @@
     </parts>
   </work>
   <work>
-    <name>T2145-僧法尼所誦出經入疑錄</name>
+    <name>T2145-cat-僧法尼所誦出經入疑錄</name>
     <parts>
       <part>
         <witnesses>ALL</witnesses>
@@ -32,20 +32,20 @@
     </parts>
   </work>
   <work>
-    <name>T2145-薩婆若陀眷屬莊嚴經-entry</name>
+    <name>T2145-ji-薩婆若陀眷屬莊嚴經</name>
     <parts>
       <part>
         <witnesses>ALL</witnesses>
         <start>薩婆若陀眷屬莊嚴經一卷二十餘紙
 
 右一部。梁天監九年</start>
-<end>然猶有零散。恐亂後生。故復
+        <end>然猶有零散。恐亂後生。故復
 略記薩婆若陀長者。是妙光父名。妙光弟名金剛德體。弟子名師子</end>
       </part>
     </parts>
   </work>
   <work>
-    <name>T2145-two-sutras</name>
+    <name>T2145-cat-新集安公注經及雜經志錄-2sutras</name>
     <parts>
       <part>
         <witnesses>ALL</witnesses>
@@ -53,5 +53,8 @@
         <end>故不入部最之限</end>
       </part>
     </parts>
+  </work>
+  <work rename="true">
+    <name>T2145-cat-新集安公注經及雜經志錄</name>
   </work>
 </splits>

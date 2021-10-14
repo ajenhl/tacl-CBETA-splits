@@ -1,6 +1,6 @@
 <splits>
   <work>
-    <name>T2145-新集疑經偽撰雜錄-preface</name>
+    <name>T2145-preface-新集疑經偽撰雜錄</name>
     <parts>
       <part>
         <witnesses>ALL</witnesses>
@@ -9,5 +9,8 @@
 而察焉</end>
       </part>
     </parts>
+  </work>
+  <work rename="true">
+    <name>T2145-cat-新集疑經偽撰雜錄</name>
   </work>
 </splits>

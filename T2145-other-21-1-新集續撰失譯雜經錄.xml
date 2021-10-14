@@ -1,6 +1,6 @@
 <splits>
   <work>
-    <name>T2145-新集續撰失譯雜經錄-preface</name>
+    <name>T2145-preface-新集續撰失譯雜經錄</name>
     <parts>
       <part>
         <witnesses>ALL</witnesses>
@@ -8,5 +8,8 @@
         <end>況法施哉</end>
       </part>
     </parts>
+  </work>
+  <work rename="true">
+    <name>T2145-cat-新集續撰失譯雜經錄</name>
   </work>
 </splits>

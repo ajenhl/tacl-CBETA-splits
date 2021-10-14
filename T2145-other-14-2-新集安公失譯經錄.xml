@@ -1,6 +1,6 @@
 <splits>
   <work>
-    <name>T2145-新集安公失譯經錄-preface</name>
+    <name>T2145-preface-新集安公失譯經錄</name>
     <parts>
       <part>
         <witnesses>ALL</witnesses>
@@ -9,5 +9,8 @@
 使名實有分尋覽無惑焉</end>
       </part>
     </parts>
+  </work>
+  <work rename="true">
+    <name>T2145-cat-新集安公失譯經錄</name>
   </work>
 </splits>
