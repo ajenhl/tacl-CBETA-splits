@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<splits>
+<splits delete="true">
   <work rename="true">
     <name>T0150A-39</name>
   </work>
