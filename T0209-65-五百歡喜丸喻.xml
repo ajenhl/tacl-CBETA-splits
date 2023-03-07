@@ -1,0 +1,28 @@
+<splits delete="true">
+  <work>
+    <name>T0209-65-五百歡喜丸喻-noToC</name>
+    <parts>
+      <part>
+        <witnesses>CB,卍正-CB,大,麗-CB,元,宋,明</witnesses>
+        <start>（六五）五百歡喜丸喻</start>
+        <end>況復善心歡喜布施？是故應當於福田
+所勤心修施。</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0209-ToC-4</name>
+    <parts>
+      <part>
+        <witnesses>CB,卍正-CB,大,麗-CB</witnesses>
+        <start>口誦乘船法而不解用喻　夫婦食餅共為</start>
+        <end>所劫失疊喻　小兒得大龜喻</end>
+      </part>
+	  <part>
+        <witnesses>元,明,宋</witnesses>
+        <start>長者共商人入海採寶喻　夫婦食餅共為</start>
+        <end>所劫失㲲喻　小兒得大龜喻</end>
+      </part>
+    </parts>
+  </work>
+</splits>

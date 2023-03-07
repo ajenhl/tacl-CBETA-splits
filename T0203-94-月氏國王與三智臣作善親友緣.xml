@@ -1,0 +1,40 @@
+<splits delete="true">
+  <work>
+    <name>T0203-94-月氏國王與三智臣作善親友緣-noToC</name>
+    <parts>
+      <part>
+        <witnesses>?,CB,大,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>（九四）月氏國王與三智臣作善親友緣</start>
+        <end>即時解悟，群臣聞已，靡
+不歡喜，智人之言不可不用。</end>
+      </part>
+	    <part>
+        <witnesses>元,明</witnesses>
+        <start>（九四）月氏國王與三智臣作善親友緣第九十四</start>
+        <end>即時解悟，諸臣聞已，莫
+不歡喜，智人之言不可不用。</end>
+      </part>
+	  <part>
+        <witnesses>宋</witnesses>
+        <start>（九四）雜寶藏經月氏國王與三智臣作善親友緣第九十四</start>
+        <end>即時解悟，諸臣聞已，莫
+不歡喜，智人之言不可不用。</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0203-ToC-8</name>
+    <parts>
+      <part>
+        <witnesses>?,大,CB,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>拘尸彌國輔相夫婦惡心於佛佛即化導得
+須陀洹緣
+
+佛弟難陀為佛所逼出家得道緣</start>
+        <end>五百白鴈聽法生天緣
+
+提婆達多放護財醉象欲害佛緣</end>
+      </part>
+    </parts>
+  </work>
+</splits>

@@ -1,0 +1,39 @@
+<splits delete="true">
+  <work>
+    <name>T0203-72-賈客造舍供養佛獲報生天緣-noToC</name>
+    <parts>
+      <part>
+        <witnesses>?,CB,大,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>（七二）賈客造舍供養佛獲報生天緣</start>
+        <end>乘此善業，今生於天，又於我
+所，聞法獲報。」</end>
+      </part>
+	    <part>
+        <witnesses>元,明</witnesses>
+        <start>（七二）賈客造舍供養佛獲報生天緣第六十一</start>
+        <end>乘此善業，今生於天，又於我
+所，聞法獲報。」</end>
+      </part>
+	  <part>
+        <witnesses>宋</witnesses>
+        <start>（七二）雜寶藏經賈客造舍供養佛獲報生天緣第六十一</start>
+        <end>乘此善業，今生於天，又於我
+所，聞法獲報。」</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0203-ToC-6</name>
+    <parts>
+      <part>
+        <witnesses>?,大,CB,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>帝釋問事緣
+
+度阿若憍陳如等說往日緣</start>
+        <end>迦步王國天旱浴佛得雨緣
+
+長者請舍利弗摩訶羅緣</end>
+      </part>
+    </parts>
+  </work>
+</splits>

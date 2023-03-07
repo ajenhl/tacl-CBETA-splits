@@ -1,0 +1,39 @@
+<splits delete="true">
+  <work>
+    <name>T0203-39-八天次第問法緣-noToC</name>
+    <parts>
+      <part>
+        <witnesses>?,CB,大,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>（三九）八天次第問法緣</start>
+        <end>勝果報故，一切諸天，無有及者；以無
+及者，心得快樂也。」</end>
+      </part>
+	    <part>
+        <witnesses>元,明</witnesses>
+        <start>（三九）八天次第問法緣第三十九</start>
+        <end>勝果故，一切諸天，無有及者；以無
+及者，心得快樂。」</end>
+      </part>
+	  <part>
+        <witnesses>宋</witnesses>
+        <start>（三九）雜寶藏經八天次第問法緣第三十九</start>
+        <end>勝果故，一切諸天，無有及者；以無
+及者，心得快樂。」</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0203-ToC-4</name>
+    <parts>
+      <part>
+        <witnesses>?,大,CB,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>貧人以麨團施現獲報緣
+
+貧女以兩錢布施即獲報緣</start>
+        <end>弗那施佛鉢食獲現報緣
+
+大愛道施佛金織成衣并穿珠師緣</end>
+      </part>
+    </parts>
+  </work>
+</splits>

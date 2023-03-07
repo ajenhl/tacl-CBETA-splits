@@ -1,0 +1,39 @@
+<splits delete="true">
+  <work>
+    <name>T0203-50-大愛道施佛金縷織成衣并穿珠師緣-noToC</name>
+    <parts>
+      <part>
+        <witnesses>?,CB,大,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>（五〇）大愛道施佛金縷織成衣并穿珠師緣</start>
+        <end>時
+穿珠師，聞是語已，心大歡喜。</end>
+      </part>
+	    <part>
+        <witnesses>元,明</witnesses>
+        <start>（五〇）大愛道施佛金織成衣并穿珠師緣第七十二</start>
+        <end>時
+穿珠師，聞是語已，心大歡喜。</end>
+      </part>
+	  <part>
+        <witnesses>宋</witnesses>
+        <start>（五〇）雜寶藏經大愛道施佛金織成衣并穿珠師緣第七十二</start>
+        <end>時
+穿珠師，聞是語已，心大歡喜。</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0203-ToC-5</name>
+    <parts>
+      <part>
+        <witnesses>?,大,CB,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>天女本以華鬘供養迦葉佛塔緣
+
+天女本以蓮華供養迦葉佛塔緣</start>
+        <end>長者見王造塔亦復造塔獲報生天緣
+
+賈客造舍供養佛生天緣</end>
+      </part>
+    </parts>
+  </work>
+</splits>

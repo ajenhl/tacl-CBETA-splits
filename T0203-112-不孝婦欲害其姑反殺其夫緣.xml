@@ -1,0 +1,39 @@
+<splits delete="true">
+  <work>
+    <name>T0203-112-不孝婦欲害其姑反殺其夫緣-noToC</name>
+    <parts>
+      <part>
+        <witnesses>?,CB,大,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>（一一二）不孝婦欲害其姑反殺其夫緣</start>
+        <end>方知夫死。不孝之罪，
+現報如是，後入地獄，受苦無量。</end>
+      </part>
+	    <part>
+        <witnesses>元,明</witnesses>
+        <start>（一一二）不孝婦欲害其姑反殺其夫緣第百十二</start>
+        <end>方知夫死。不孝之罪，
+現報如是，後入地獄，受苦無量。</end>
+      </part>
+	  <part>
+        <witnesses>宋</witnesses>
+        <start>（一一二）雜寶藏經不孝婦欲害其姑反殺其夫緣第百十二</start>
+        <end>方知夫死。不孝之罪，
+現報如是，後入地獄，受苦無量。</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0203-ToC-9-3</name>
+    <parts>
+      <part>
+        <witnesses>?,大,CB,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>波羅奈王聞塚間喚緣
+
+老比</start>
+        <end>丘得四果緣
+
+女人至誠得道果緣</end>
+      </part>
+    </parts>
+  </work>
+</splits>

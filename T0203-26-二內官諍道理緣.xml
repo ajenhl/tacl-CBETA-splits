@@ -1,0 +1,39 @@
+<splits delete="true">
+  <work>
+    <name>T0203-26-二內官諍道理緣-noToC</name>
+    <parts>
+      <part>
+        <witnesses>?,CB,大,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>（二六）二內官諍道理緣</start>
+        <end>由是觀之，善惡報
+應，行業所致，非天非王之所能與。</end>
+      </part>
+	    <part>
+        <witnesses>元,明</witnesses>
+        <start>（二六）二內官共諍道理緣第三十七</start>
+        <end>由是觀之，善惡報
+應，行業所致，非天非王之所能與。</end>
+      </part>
+	  <part>
+        <witnesses>宋</witnesses>
+        <start>（二六）雜寶藏經二內官共諍道理緣第三十七</start>
+        <end>由是觀之，善惡報
+應，行業所致，非天非王之所能與。</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0203-ToC-3</name>
+    <parts>
+      <part>
+        <witnesses>?,大,CB,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>兄弟二人俱出家緣
+
+仇伽離謗舍利弗等緣</start>
+        <end>二估客因緣
+
+八天次第問法緣</end>
+      </part>
+    </parts>
+  </work>
+</splits>

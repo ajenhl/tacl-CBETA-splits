@@ -1,0 +1,40 @@
+<splits delete="true">
+  <work>
+    <name>T0209-1-愚人食鹽喻-noToC</name>
+    <parts>
+      <part>
+        <witnesses>CB,卍正-CB,大,麗-CB</witnesses>
+        <start>（一）愚人食鹽喻</start>
+        <end>以鹽美故而空食之，致
+令口爽，此亦復爾。</end>
+      </part>
+	    <part>
+        <witnesses>元,宋</witnesses>
+        <start>（一）愚人食鹽喻</start>
+        <end>以鹽美故而空食之，致
+令口爽，此亦復爾。</end>
+      </part>
+	  <part>
+        <witnesses>明</witnesses>
+        <start>（一）愚人食鹽喻</start>
+        <end>以鹽美故而美故而空食之，致
+令口爽，此亦復爾。</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0209-ToC-1</name>
+    <parts>
+      <part>
+        <witnesses>CB,卍正-CB,大,麗-CB</witnesses>
+        <start>愚人食鹽喻　愚人集牛乳喻</start>
+        <end>人說王縱暴喻　婦女欲更求子喻</end>
+      </part>
+	  <part>
+        <witnesses>元,明,宋</witnesses>
+        <start>愚人食鹽喻　愚人集牛乳喻</start>
+        <end>人說王所縱暴喻　婦女欲更求子喻</end>
+      </part>
+    </parts>
+  </work>
+</splits>

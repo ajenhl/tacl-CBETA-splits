@@ -1,0 +1,39 @@
+<splits delete="true">
+  <work>
+    <name>T0203-115-女人至誠得道果緣-noToC</name>
+    <parts>
+      <part>
+        <witnesses>?,CB,大,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>（一一五）女人至誠得道果緣</start>
+        <end>是故行者，應當至心，
+若至心者，所求必獲。</end>
+      </part>
+	    <part>
+        <witnesses>元,明</witnesses>
+        <start>（一一五）女人至誠得道果緣第百十五</start>
+        <end>是故行者，應當至心，
+若至心者，所求必獲。</end>
+      </part>
+	  <part>
+        <witnesses>宋</witnesses>
+        <start>（一一五）雜寶藏經女人至誠得道果緣第百十五</start>
+        <end>是故行者，應當至心，
+若至心者，所求必獲。</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0203-ToC-10</name>
+    <parts>
+      <part>
+        <witnesses>?,大,CB,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>優陀羨王緣
+
+羅睺羅因緣</start>
+        <end>烏梟報怨緣
+
+婢共羊鬪緣</end>
+      </part>
+    </parts>
+  </work>
+</splits>

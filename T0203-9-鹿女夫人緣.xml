@@ -1,0 +1,39 @@
+<splits delete="true">
+  <work>
+    <name>T0203-9-鹿女夫人緣-noToC</name>
+    <parts>
+      <part>
+        <witnesses>?,大,CB,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>（九）鹿女夫人緣</start>
+        <end>諸比丘，聞是語
+已，歡喜奉行。</end>
+      </part>
+	    <part>
+        <witnesses>宋,元</witnesses>
+        <start>（九）雜寶藏經鹿女夫人緣第九</start>
+        <end>諸比丘，聞是語
+已，歡喜奉行。</end>
+      </part>
+	  <part>
+        <witnesses>明</witnesses>
+        <start>（九）鹿女夫人緣第九</start>
+        <end>諸比丘，聞是語
+已，歡喜奉行。</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0203-ToC-2</name>
+    <parts>
+      <part>
+        <witnesses>?,大,CB,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>六牙白象緣
+
+兔自燒身供養大仙緣</start>
+        <end>內官贖所犍牛得男根緣
+
+兩內官共諍道理緣</end>
+      </part>
+    </parts>
+  </work>
+</splits>

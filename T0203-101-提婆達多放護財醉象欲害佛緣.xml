@@ -1,0 +1,39 @@
+<splits delete="true">
+  <work>
+    <name>T0203-101-提婆達多放護財醉象欲害佛緣-noToC</name>
+    <parts>
+      <part>
+        <witnesses>？,CB,大,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>（一〇一）提婆達多放護財醉象欲害佛緣</start>
+        <end>爾時獵師，提
+婆達多是。」</end>
+      </part>
+	    <part>
+        <witnesses>元,明</witnesses>
+        <start>（一〇一）提婆達多放護財醉象欲害佛緣第百一</start>
+        <end>爾時獵師，提
+婆達多是。」</end>
+      </part>
+	  <part>
+        <witnesses>宋</witnesses>
+        <start>（一〇一）雜寶藏經提婆達多放護財醉象欲害佛緣第百一</start>
+        <end>爾時獵師，提
+婆達多是。」</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0203-ToC-9-1</name>
+    <parts>
+      <part>
+        <witnesses>?,大,CB,宮-CB,麗-CB,磧-CB,磧乙-CB</witnesses>
+        <start>迦栴延為惡生王解八夢緣
+
+金</start>
+        <end>緣
+
+惡生王得五百鉢緣卷內下文更有八緣三緣</end>
+      </part>
+    </parts>
+  </work>
+</splits>

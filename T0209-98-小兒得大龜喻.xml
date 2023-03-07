@@ -1,0 +1,27 @@
+<splits delete="true">
+  <work>
+    <name>T0209-98-小兒得大龜喻-noendmatter</name>
+    <parts>
+      <part>
+        <witnesses>CB,卍正-CB,大,麗-CB,元,宋,明</witnesses>
+        <start>（九八）小兒得大龜喻</start>
+        <end>終墮三惡道，如彼小兒擲龜水中。</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0209-endmatter</name>
+    <parts>
+      <part>
+        <witnesses>CB,卍正-CB,大,麗-CB</witnesses>
+        <start>此論我所造，   合和喜笑語，</start>
+        <end>尊者僧伽斯那造作癡花鬘竟。</end>
+      </part>
+	  <part>
+        <witnesses>元,明,宋</witnesses>
+        <start>此論我所造，   和合喜笑語，</start>
+        <end>尊者僧伽斯那造作癡花鬘竟。</end>
+      </part>
+    </parts>
+  </work>
+</splits>

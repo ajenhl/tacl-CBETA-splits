@@ -1,0 +1,24 @@
+<splits delete="true">
+  <work>
+    <name>T0209-41-毘舍闍鬼喻-noToC</name>
+    <parts>
+      <part>
+        <witnesses>CB,卍正-CB,大,麗-CB,元,宋,明</witnesses>
+        <start>（四一）毘舍闍鬼喻</start>
+        <end>若能修行善行及以布
+施持戒禪定，便得離苦獲得道果。</end>
+      </part>
+    </parts>
+  </work>
+  <work>
+    <name>T0209-ToC-3</name>
+    <parts>
+      <part>
+        <witnesses>CB,卍正-CB,大,麗-CB,元,明,宋</witnesses>
+        <start>估客駝死喻　磨大石喻</start>
+        <end>人謂故屋中有惡鬼
+喻　五百歡喜丸喻</end>
+      </part>
+    </parts>
+  </work>
+</splits>
